@@ -1,0 +1,270 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        final int MAX_STUDENTS = 10;
+
+        int[] studentIds = new int[MAX_STUDENTS];
+        String[] fullNames = new String[MAX_STUDENTS];
+        int[] ages = new int[MAX_STUDENTS];
+        String[] courses = new String[MAX_STUDENTS];
+        double[] grades = new double[MAX_STUDENTS];
+        boolean[] enrolledStatuses = new boolean[MAX_STUDENTS];
+
+        int studentCount = 0;
+        boolean running = true;
+
+        while (running) {
+            System.out.println("\n===== STUDENT INFORMATION SYSTEM =====");
+            System.out.println("1. Add Student");
+            System.out.println("2. View All Students");
+            System.out.println("3. Search by ID");
+            System.out.println("4. View Statistics");
+            System.out.println("5. Exit");
+            System.out.print("Enter your choice: ");
+
+            int choice = -1;
+
+            if (scanner.hasNextInt()) {
+                choice = scanner.nextInt();
+            } else {
+                System.out.println("Invalid input. Please enter a number from 1 to 5.");
+                scanner.nextLine();
+                continue;
+            }
+            scanner.nextLine();
+
+            switch (choice) {
+                case 1:
+                    if (studentCount >= MAX_STUDENTS) {
+                        System.out.println("Student list is already full. Cannot add more students.");
+                        break;
+                    }
+
+                    System.out.println("\n--- Add Student ---");
+
+                    int id;
+                    while (true) {
+                        System.out.print("Enter Student ID: ");
+                        if (scanner.hasNextInt()) {
+                            id = scanner.nextInt();
+                            scanner.nextLine();
+
+                            boolean duplicate = false;
+                            for (int i = 0; i < studentCount; i++) {
+                                if (studentIds[i] == id) {
+                                    duplicate = true;
+                                    break;
+                                }
+                            }
+
+                            if (duplicate) {
+                                System.out.println("Student ID already exists. Enter a unique ID.");
+                            } else {
+                                break;
+                            }
+                        } else {
+                            System.out.println("Invalid input. Student ID must be an integer.");
+                            scanner.nextLine();
+                        }
+                    }
+
+                    String name;
+                    while (true) {
+                        System.out.print("Enter Full Name: ");
+                        name = scanner.nextLine().trim();
+                        if (!name.isEmpty()) {
+                            break;
+                        } else {
+                            System.out.println("Name cannot be empty.");
+                        }
+                    }
+
+                    int age;
+                    while (true) {
+                        System.out.print("Enter Age: ");
+                        if (scanner.hasNextInt()) {
+                            age = scanner.nextInt();
+                            scanner.nextLine();
+                            if (age > 0) {
+                                break;
+                            } else {
+                                System.out.println("Age must be positive.");
+                            }
+                        } else {
+                            System.out.println("Invalid input. Age must be an integer.");
+                            scanner.nextLine();
+                        }
+                    }
+
+                    String course;
+                    while (true) {
+                        System.out.print("Enter Course: ");
+                        course = scanner.nextLine().trim();
+                        if (!course.isEmpty()) {
+                            break;
+                        } else {
+                            System.out.println("Course cannot be empty.");
+                        }
+                    }
+
+                    double grade;
+                    while (true) {
+                        System.out.print("Enter Grade/Score: ");
+                        if (scanner.hasNextDouble()) {
+                            grade = scanner.nextDouble();
+                            scanner.nextLine();
+                            if (grade >= 0 && grade <= 100) {
+                                break;
+                            } else {
+                                System.out.println("Grade must be between 0 and 100.");
+                            }
+                        } else {
+                            System.out.println("Invalid input. Grade must be a number.");
+                            scanner.nextLine();
+                        }
+                    }
+
+                    boolean enrolled;
+                    while (true) {
+                        System.out.print("Is Enrolled? (true/false): ");
+                        if (scanner.hasNextBoolean()) {
+                            enrolled = scanner.nextBoolean();
+                            scanner.nextLine();
+                            break;
+                        } else {
+                            System.out.println("Invalid input. Please enter true or false.");
+                            scanner.nextLine();
+                        }
+                    }
+
+                    studentIds[studentCount] = id;
+                    fullNames[studentCount] = name;
+                    ages[studentCount] = age;
+                    courses[studentCount] = course;
+                    grades[studentCount] = grade;
+                    enrolledStatuses[studentCount] = enrolled;
+                    studentCount++;
+
+                    System.out.println("Student added successfully.");
+                    break;
+
+                case 2:
+                    System.out.println("\n--- View All Students ---");
+
+                    if (studentCount == 0) {
+                        System.out.println("No student records found.");
+                    } else {
+                        System.out.printf("%-10s %-25s %-5s %-15s %-10s %-12s %-15s%n",
+                                "ID", "Name", "Age", "Course", "Grade", "Enrolled", "Standing");
+                        System.out.println("-----------------------------------------------------------------------------------------------");
+
+                        for (int i = 0; i < studentCount; i++) {
+                            String standing;
+
+                            if (grades[i] >= 90) {
+                                standing = "Dean's Lister";
+                            } else if (grades[i] >= 75) {
+                                standing = "Passed";
+                            } else {
+                                standing = "Failed";
+                            }
+
+                            System.out.printf("%-10d %-25s %-5d %-15s %-10.2f %-12b %-15s%n",
+                                    studentIds[i], fullNames[i], ages[i], courses[i], grades[i], enrolledStatuses[i], standing);
+                        }
+                    }
+                    break;
+
+                case 3:
+                    System.out.println("\n--- Search by ID ---");
+
+                    if (studentCount == 0) {
+                        System.out.println("No student records available.");
+                        break;
+                    }
+
+                    System.out.print("Enter Student ID to search: ");
+                    if (!scanner.hasNextInt()) {
+                        System.out.println("Invalid input. Student ID must be an integer.");
+                        scanner.nextLine();
+                        break;
+                    }
+
+                    int searchId = scanner.nextInt();
+                    scanner.nextLine();
+
+                    boolean found = false;
+
+                    for (int i = 0; i < studentCount; i++) {
+                        if (studentIds[i] == searchId) {
+                            String standing;
+
+                            if (grades[i] >= 90) {
+                                standing = "Dean's Lister";
+                            } else if (grades[i] >= 75) {
+                                standing = "Passed";
+                            } else {
+                                standing = "Failed";
+                            }
+
+                            System.out.println("Student found:");
+                            System.out.println("ID: " + studentIds[i]);
+                            System.out.println("Name: " + fullNames[i]);
+                            System.out.println("Age: " + ages[i]);
+                            System.out.println("Course: " + courses[i]);
+                            System.out.println("Grade: " + grades[i]);
+                            System.out.println("Enrolled: " + enrolledStatuses[i]);
+                            System.out.println("Standing: " + standing);
+                            found = true;
+                            break;
+                        }
+                    }
+
+                    if (!found) {
+                        System.out.println("Student not found.");
+                    }
+                    break;
+
+                case 4:
+                    System.out.println("\n--- View Statistics ---");
+
+                    if (studentCount == 0) {
+                        System.out.println("No student records available.");
+                    } else {
+                        double totalGrades = 0;
+                        double highestGrade = grades[0];
+                        String topStudent = fullNames[0];
+
+                        for (int i = 0; i < studentCount; i++) {
+                            totalGrades += grades[i];
+
+                            if (grades[i] > highestGrade) {
+                                highestGrade = grades[i];
+                                topStudent = fullNames[i];
+                            }
+                        }
+
+                        double averageGrade = totalGrades / studentCount;
+
+                        System.out.println("Total number of students: " + studentCount);
+                        System.out.printf("Average grade of the class: %.2f%n", averageGrade);
+                        System.out.printf("Top student: %s (%.2f)%n", topStudent, highestGrade);
+                    }
+                    break;
+
+                case 5:
+                    System.out.println("Goodbye!");
+                    running = false;
+                    break;
+
+                default:
+                    System.out.println("Invalid choice. Please select from 1 to 5.");
+            }
+        }
+
+        scanner.close();
+    }
+}
