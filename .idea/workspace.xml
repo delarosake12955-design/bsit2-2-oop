@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb6a55e2-6209-4594-b39c-ec073fa630f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GradeTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab-activity-2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7039023541419303" />
+      <entry key="MS500" value="3.0990662272284832" />
+      <entry key="S2" value="4.321368768628627" />
+      <entry key="S5" value="5.453066137329452" />
+      <entry key="S10" value="6.109860076232459" />
+      <entry key="S30" value="6.686621093197786" />
+      <entry key="S60" value="7.622844310631077" />
+      <entry key="M2" value="13.716758985079089" />
+      <entry key="M5" value="37.18207129677866" />
+      <entry key="M10" value="63.3270993553839" />
+      <entry key="M15" value="83.37377407138949" />
+      <entry key="M30" value="145.47139977229352" />
+      <entry key="H1" value="255.93749841552517" />
+      <entry key="H2" value="382.1419563770098" />
+      <entry key="H4" value="482.84441014038083" />
+      <entry key="D1" value="596.9635153538239" />
+      <entry key="W1" value="620.0405836692744" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.194024897431991E-298" />
+      <entry key="S2" value="5.350253007444816E-75" />
+      <entry key="S5" value="1.955913876766657E-30" />
+      <entry key="S10" value="1.3985399088930771E-15" />
+      <entry key="S30" value="1.1182999049535126E-5" />
+      <entry key="S60" value="0.003344099138713758" />
+      <entry key="M2" value="0.05782832268261153" />
+      <entry key="M5" value="0.3277082433048171" />
+      <entry key="M10" value="0.8820922148780462" />
+      <entry key="M15" value="1.8252705660503359" />
+      <entry key="M30" value="5.796506945934943" />
+      <entry key="H1" value="13.543886855135423" />
+      <entry key="H2" value="22.781786066722827" />
+      <entry key="H4" value="30.3096543512193" />
+      <entry key="D1" value="38.94291399385098" />
+      <entry key="W1" value="40.698506599990246" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5864600095958445" />
+      <entry key="MS500" value="2.9950760728532435" />
+      <entry key="S2" value="4.279975405559783" />
+      <entry key="S5" value="5.43390689452077" />
+      <entry key="S10" value="6.099667302066101" />
+      <entry key="S30" value="6.683044698617133" />
+      <entry key="S60" value="7.622685103143667" />
+      <entry key="M2" value="13.763658381976851" />
+      <entry key="M5" value="37.49121815206969" />
+      <entry key="M10" value="64.19271389545773" />
+      <entry key="M15" value="85.18406836633291" />
+      <entry key="M30" value="151.25404633626724" />
+      <entry key="H1" value="269.46855083758163" />
+      <entry key="H2" value="404.91378578270457" />
+      <entry key="H4" value="513.147632801175" />
+      <entry key="D1" value="635.905077898178" />
+      <entry key="W1" value="660.7388890578206" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Fq6hO3VjWRJ5aWLqFxVh7jRZzB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.GradeTracker.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "lab-activity-3",
+    "git.auto.fetch.suggestion.counter": "1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/BSIT 2-2  DE LA ROSA/bsit 2-2 oop/src/Main.java",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.GradeTracker">
+    <configuration name="GradeTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradeTracker" />
+      <module name="bsit 2-2 oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bsit 2-2 oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GradeTracker" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb6a55e2-6209-4594-b39c-ec073fa630f2" name="Changes" comment="" />
+      <created>1782790371198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782790371198</updated>
+      <workItem from="1782790372289" duration="124000" />
+      <workItem from="1782790513471" duration="811000" />
+      <workItem from="1782791353566" duration="700000" />
+      <workItem from="1783046328503" duration="4844000" />
+      <workItem from="1783051232499" duration="132000" />
+      <workItem from="1783297517454" duration="101000" />
+      <workItem from="1783392814439" duration="1537000" />
+      <workItem from="1783394557599" duration="1035000" />
+      <workItem from="1783651628420" duration="14000" />
+      <workItem from="1783651755560" duration="2763000" />
+      <workItem from="1783903643187" duration="1010000" />
+      <workItem from="1783904704717" duration="94000" />
+      <workItem from="1783998244586" duration="1480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
