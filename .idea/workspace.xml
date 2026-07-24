@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05c04edf-b586-4c23-a6b8-890d605413f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_24_2026_11_10_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_24_2026_11_10_AM_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_24_2026_11_10_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bsit 2-2 oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/bsit 2-2 oop/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/bsit 2-2 oop/Enrolled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/bsit 2-2 oop/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/bsit 2-2 oop/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enrolled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab-activity-3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.933473496330063" />
+      <entry key="MS500" value="3.7087172828059103" />
+      <entry key="S2" value="5.536100413654252" />
+      <entry key="S5" value="6.315840187783412" />
+      <entry key="S10" value="6.638299738712988" />
+      <entry key="S30" value="6.874787564646264" />
+      <entry key="S60" value="6.945320615192915" />
+      <entry key="M2" value="7.086836619237808" />
+      <entry key="M5" value="8.629213940855132" />
+      <entry key="M10" value="17.664424133652066" />
+      <entry key="M15" value="29.615191402419292" />
+      <entry key="M30" value="57.66346377957182" />
+      <entry key="H1" value="84.41526420346568" />
+      <entry key="H2" value="103.2079499625247" />
+      <entry key="H4" value="114.39790491483923" />
+      <entry key="D1" value="124.79377552169024" />
+      <entry key="W1" value="126.68212344771547" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.071948212362043E-269" />
+      <entry key="S5" value="3.167079895649879E-108" />
+      <entry key="S10" value="2.6011918614431528E-54" />
+      <entry key="S30" value="2.8037627788627886E-18" />
+      <entry key="S60" value="3.384415004186964E-9" />
+      <entry key="M2" value="1.4881533436178742E-4" />
+      <entry key="M5" value="0.12766262916283075" />
+      <entry key="M10" value="1.5899775679273347" />
+      <entry key="M15" value="4.039666968359243" />
+      <entry key="M30" value="10.96642157671982" />
+      <entry key="H1" value="18.56380809729472" />
+      <entry key="H2" value="24.31839164442562" />
+      <entry key="H4" value="27.88054567323405" />
+      <entry key="D1" value="31.271011689924322" />
+      <entry key="W1" value="31.89476789792815" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7926151634901502" />
+      <entry key="MS500" value="3.5494561477226774" />
+      <entry key="S2" value="5.468339773483572" />
+      <entry key="S5" value="6.284208665867991" />
+      <entry key="S10" value="6.621544452402108" />
+      <entry key="S30" value="6.86897065555136" />
+      <entry key="S60" value="6.942296247637285" />
+      <entry key="M2" value="7.085007680702635" />
+      <entry key="M5" value="8.753713683505064" />
+      <entry key="M10" value="19.243890998651942" />
+      <entry key="M15" value="33.639051179296416" />
+      <entry key="M30" value="68.61075216636166" />
+      <entry key="H1" value="102.96379728388865" />
+      <entry key="H2" value="127.51662744932024" />
+      <entry key="H4" value="142.2729638053073" />
+      <entry key="D1" value="156.06377411402198" />
+      <entry key="W1" value="158.57674404228194" />
+    </decayedShown>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Enrolled.executor": "Run",
+    "git-widget-placeholder": "prelim-lab-exam",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/BSIT 2-2  DE LA ROSA/bsit 2-2 oop/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Enrolled">
+    <configuration name="Enrolled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enrolled" />
+      <module name="bsit 2-2 oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bsit 2-2 oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Enrolled" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

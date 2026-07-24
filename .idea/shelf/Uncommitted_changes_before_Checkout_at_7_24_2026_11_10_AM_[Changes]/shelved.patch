@@ -1,0 +1,171 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"cb6a55e2-6209-4594-b39c-ec073fa630f2\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"INCOMING_COMMITS_CHECK_STRATEGY\" value=\"FETCH\" />\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lab-activity-2\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.701183166414248\" />\r\n      <entry key=\"MS500\" value=\"3.341363471052464\" />\r\n      <entry key=\"S2\" value=\"5.302351112631141\" />\r\n      <entry key=\"S5\" value=\"6.293755609950057\" />\r\n      <entry key=\"S10\" value=\"8.118945990909406\" />\r\n      <entry key=\"S30\" value=\"19.57122088851585\" />\r\n      <entry key=\"S60\" value=\"30.508167536737698\" />\r\n      <entry key=\"M2\" value=\"45.56713009870272\" />\r\n      <entry key=\"M5\" value=\"83.1209098894025\" />\r\n      <entry key=\"M10\" value=\"127.76203886792749\" />\r\n      <entry key=\"M15\" value=\"159.3265864993085\" />\r\n      <entry key=\"M30\" value=\"235.18738081732087\" />\r\n      <entry key=\"H1\" value=\"355.43994207396\" />\r\n      <entry key=\"H2\" value=\"493.0916469183826\" />\r\n      <entry key=\"H4\" value=\"604.7747486068537\" />\r\n      <entry key=\"D1\" value=\"733.2769632091014\" />\r\n      <entry key=\"W1\" value=\"759.4943432943014\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"0.0\" />\r\n      <entry key=\"MS500\" value=\"0.0\" />\r\n      <entry key=\"S2\" value=\"5.934661230311171E-102\" />\r\n      <entry key=\"S5\" value=\"3.231159325626866E-41\" />\r\n      <entry key=\"S10\" value=\"5.684328742804085E-21\" />\r\n      <entry key=\"S30\" value=\"1.784689378847993E-7\" />\r\n      <entry key=\"S60\" value=\"4.2354800071890144E-4\" />\r\n      <entry key=\"M2\" value=\"0.021599439894949474\" />\r\n      <entry key=\"M5\" value=\"0.2772513931268237\" />\r\n      <entry key=\"M10\" value=\"0.8551497005700497\" />\r\n      <entry key=\"M15\" value=\"1.6647026936088096\" />\r\n      <entry key=\"M30\" value=\"5.207774400859764\" />\r\n      <entry key=\"H1\" value=\"12.726754670980236\" />\r\n      <entry key=\"H2\" value=\"22.245297670387146\" />\r\n      <entry key=\"H4\" value=\"30.28101671380284\" />\r\n      <entry key=\"D1\" value=\"39.721097618465045\" />\r\n      <entry key=\"W1\" value=\"41.665345654067224\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"1.620197163536873\" />\r\n      <entry key=\"MS500\" value=\"3.2680311013985963\" />\r\n      <entry key=\"S2\" value=\"5.268084095050496\" />\r\n      <entry key=\"S5\" value=\"6.277471663686718\" />\r\n      <entry key=\"S10\" value=\"8.10892350346554\" />\r\n      <entry key=\"S30\" value=\"19.56353108147001\" />\r\n      <entry key=\"S60\" value=\"30.502520864815565\" />\r\n      <entry key=\"M2\" value=\"45.58371264176161\" />\r\n      <entry key=\"M5\" value=\"83.39020772253559\" />\r\n      <entry key=\"M10\" value=\"128.60650781540875\" />\r\n      <entry key=\"M15\" value=\"160.97991363845955\" />\r\n      <entry key=\"M30\" value=\"240.38298845685637\" />\r\n      <entry key=\"H1\" value=\"368.1546126374834\" />\r\n      <entry key=\"H2\" value=\"515.3271828353395\" />\r\n      <entry key=\"H4\" value=\"635.049315069245\" />\r\n      <entry key=\"D1\" value=\"772.9966777613741\" />\r\n      <entry key=\"W1\" value=\"801.1594822879681\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3Fq6hO3VjWRJ5aWLqFxVh7jRZzB\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;Application.GradeTracker.executor&quot;: &quot;Debug&quot;,\r\n    &quot;Application.Main.executor&quot;: &quot;Run&quot;,\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\r\n    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;lab-activity-3&quot;,\r\n    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,\r\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/BSIT 2-2  DE LA ROSA/bsit 2-2 oop/src/Main.java&quot;,\r\n    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.GradeTracker\">\r\n    <configuration name=\"GradeTracker\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"GradeTracker\" />\r\n      <module name=\"bsit 2-2 oop\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"bsit 2-2 oop\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.GradeTracker\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"cb6a55e2-6209-4594-b39c-ec073fa630f2\" name=\"Changes\" comment=\"\" />\r\n      <created>1782790371198</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1782790371198</updated>\r\n      <workItem from=\"1782790372289\" duration=\"124000\" />\r\n      <workItem from=\"1782790513471\" duration=\"811000\" />\r\n      <workItem from=\"1782791353566\" duration=\"700000\" />\r\n      <workItem from=\"1783046328503\" duration=\"4844000\" />\r\n      <workItem from=\"1783051232499\" duration=\"132000\" />\r\n      <workItem from=\"1783297517454\" duration=\"101000\" />\r\n      <workItem from=\"1783392814439\" duration=\"1537000\" />\r\n      <workItem from=\"1783394557599\" duration=\"1035000\" />\r\n      <workItem from=\"1783651628420\" duration=\"14000\" />\r\n      <workItem from=\"1783651755560\" duration=\"2763000\" />\r\n      <workItem from=\"1783903643187\" duration=\"1010000\" />\r\n      <workItem from=\"1783904704717\" duration=\"94000\" />\r\n      <workItem from=\"1783998244586\" duration=\"1480000\" />\r\n      <workItem from=\"1783999755941\" duration=\"981000\" />\r\n      <workItem from=\"1784000758265\" duration=\"308000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8a1846302acefb92a12f6080409da6c49ab3801b)
++++ b/.idea/workspace.xml	(date 1784862575808)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="cb6a55e2-6209-4594-b39c-ec073fa630f2" name="Changes" comment="" />
++    <list default="true" id="cb6a55e2-6209-4594-b39c-ec073fa630f2" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -28,61 +30,61 @@
+   </component>
+   <component name="NextEditCompletionFeaturesState">
+     <decayedCancelled>
+-      <entry key="MS100" value="1.701183166414248" />
+-      <entry key="MS500" value="3.341363471052464" />
+-      <entry key="S2" value="5.302351112631141" />
+-      <entry key="S5" value="6.293755609950057" />
+-      <entry key="S10" value="8.118945990909406" />
+-      <entry key="S30" value="19.57122088851585" />
+-      <entry key="S60" value="30.508167536737698" />
+-      <entry key="M2" value="45.56713009870272" />
+-      <entry key="M5" value="83.1209098894025" />
+-      <entry key="M10" value="127.76203886792749" />
+-      <entry key="M15" value="159.3265864993085" />
+-      <entry key="M30" value="235.18738081732087" />
+-      <entry key="H1" value="355.43994207396" />
+-      <entry key="H2" value="493.0916469183826" />
+-      <entry key="H4" value="604.7747486068537" />
+-      <entry key="D1" value="733.2769632091014" />
+-      <entry key="W1" value="759.4943432943014" />
++      <entry key="MS100" value="1.0000000000000013" />
++      <entry key="MS500" value="1.0020324904414721" />
++      <entry key="S2" value="1.552376795069789" />
++      <entry key="S5" value="3.192262732169201" />
++      <entry key="S10" value="5.821731171172683" />
++      <entry key="S30" value="14.789767080535071" />
++      <entry key="S60" value="25.13144337728098" />
++      <entry key="M2" value="41.58769141856727" />
++      <entry key="M5" value="101.32248706221898" />
++      <entry key="M10" value="197.11503328019646" />
++      <entry key="M15" value="267.3665449530701" />
++      <entry key="M30" value="403.3537052101141" />
++      <entry key="H1" value="567.9541202319388" />
++      <entry key="H2" value="740.7376297887341" />
++      <entry key="H4" value="879.2957318461528" />
++      <entry key="D1" value="1039.484614712747" />
++      <entry key="W1" value="1072.3456961343622" />
+     </decayedCancelled>
+     <decayedSelected>
+       <entry key="MS100" value="0.0" />
+       <entry key="MS500" value="0.0" />
+-      <entry key="S2" value="5.934661230311171E-102" />
+-      <entry key="S5" value="3.231159325626866E-41" />
+-      <entry key="S10" value="5.684328742804085E-21" />
+-      <entry key="S30" value="1.784689378847993E-7" />
+-      <entry key="S60" value="4.2354800071890144E-4" />
+-      <entry key="M2" value="0.021599439894949474" />
+-      <entry key="M5" value="0.2772513931268237" />
+-      <entry key="M10" value="0.8551497005700497" />
+-      <entry key="M15" value="1.6647026936088096" />
+-      <entry key="M30" value="5.207774400859764" />
+-      <entry key="H1" value="12.726754670980236" />
+-      <entry key="H2" value="22.245297670387146" />
+-      <entry key="H4" value="30.28101671380284" />
+-      <entry key="D1" value="39.721097618465045" />
+-      <entry key="W1" value="41.665345654067224" />
++      <entry key="S2" value="2.426341807520768E-156" />
++      <entry key="S5" value="5.675195053384153E-63" />
++      <entry key="S10" value="7.53338904702536E-32" />
++      <entry key="S30" value="4.223412635186724E-11" />
++      <entry key="S60" value="6.500976756920141E-6" />
++      <entry key="M2" value="0.0025984779659487347" />
++      <entry key="M5" value="0.1160586226031514" />
++      <entry key="M10" value="0.5561451599560144" />
++      <entry key="M15" value="1.1906444234990075" />
++      <entry key="M30" value="4.142870281919204" />
++      <entry key="H1" value="11.210019070303723" />
++      <entry key="H2" value="21.00535401239777" />
++      <entry key="H4" value="29.735401079470357" />
++      <entry key="D1" value="40.378588093989976" />
++      <entry key="W1" value="42.61389270390549" />
+     </decayedSelected>
+     <decayedShown>
+-      <entry key="MS100" value="1.620197163536873" />
+-      <entry key="MS500" value="3.2680311013985963" />
+-      <entry key="S2" value="5.268084095050496" />
+-      <entry key="S5" value="6.277471663686718" />
+-      <entry key="S10" value="8.10892350346554" />
+-      <entry key="S30" value="19.56353108147001" />
+-      <entry key="S60" value="30.502520864815565" />
+-      <entry key="M2" value="45.58371264176161" />
+-      <entry key="M5" value="83.39020772253559" />
+-      <entry key="M10" value="128.60650781540875" />
+-      <entry key="M15" value="160.97991363845955" />
+-      <entry key="M30" value="240.38298845685637" />
+-      <entry key="H1" value="368.1546126374834" />
+-      <entry key="H2" value="515.3271828353395" />
+-      <entry key="H4" value="635.049315069245" />
+-      <entry key="D1" value="772.9966777613741" />
+-      <entry key="W1" value="801.1594822879681" />
++      <entry key="MS100" value="0.7845840978967514" />
++      <entry key="MS500" value="0.9539141318283734" />
++      <entry key="S2" value="1.4745643716185248" />
++      <entry key="S5" value="3.0779495903423917" />
++      <entry key="S10" value="5.689999096968513" />
++      <entry key="S30" value="14.626647132948015" />
++      <entry key="S60" value="24.984142799665488" />
++      <entry key="M2" value="41.47681255305314" />
++      <entry key="M5" value="101.37163866483435" />
++      <entry key="M10" value="197.62851424024842" />
++      <entry key="M15" value="268.5238933246558" />
++      <entry key="M30" value="407.4732066223429" />
++      <entry key="H1" value="579.14631600152" />
++      <entry key="H2" value="761.7300962885352" />
++      <entry key="H4" value="909.0229450356277" />
++      <entry key="D1" value="1079.8614853553036" />
++      <entry key="W1" value="1114.9593329141835" />
+     </decayedShown>
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -97,7 +99,7 @@
+   <component name="PropertiesComponent">{
+   &quot;keyToString&quot;: {
+     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;Application.GradeTracker.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.GradeTracker.executor&quot;: &quot;Run&quot;,
+     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+@@ -119,12 +121,16 @@
+     &quot;onboarding.tips.debug.path&quot;: &quot;C:/BSIT 2-2  DE LA ROSA/bsit 2-2 oop/src/Main.java&quot;,
+     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  },
++  &quot;keyToStringList&quot;: {
++    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
++      &quot;JKTMeta&quot;
++    ]
+   }
+ }</component>
+   <component name="RunManager" selected="Application.GradeTracker">
+     <configuration name="GradeTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="GradeTracker" />
+-      <module name="bsit 2-2 oop" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+@@ -173,7 +179,12 @@
+       <workItem from="1783904704717" duration="94000" />
+       <workItem from="1783998244586" duration="1480000" />
+       <workItem from="1783999755941" duration="981000" />
+-      <workItem from="1784000758265" duration="308000" />
++      <workItem from="1784000758265" duration="633000" />
++      <workItem from="1784163137724" duration="39000" />
++      <workItem from="1784860744497" duration="1286000" />
++      <workItem from="1784862055787" duration="28000" />
++      <workItem from="1784862144718" duration="86000" />
++      <workItem from="1784862248018" duration="328000" />
+     </task>
+     <servers />
+   </component>
